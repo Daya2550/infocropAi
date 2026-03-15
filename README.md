@@ -15,6 +15,9 @@ The goal of this system is to improve crop productivity, reduce farming costs, a
 [https://infocropai.free.nf/](https://infocropai.free.nf/)
 
 ---
+## 🎥 Demo Video
+
+[Download or Watch Demo](InfoCrop AI.mp4)
 
 # 📌 Project Overview
 
