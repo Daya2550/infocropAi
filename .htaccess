@@ -1,0 +1,14 @@
+Options -Indexes
+DirectoryIndex index.php index.html
+
+# Allow all PHP files to be accessed
+<FilesMatch "\.php$">
+    Order Allow,Deny
+    Allow from all
+</FilesMatch>
+
+# Prevent access to sensitive files
+<FilesMatch "\.(sql|log|ini|env)$">
+    Order Deny,Allow
+    Deny from all
+</FilesMatch>
