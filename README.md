@@ -17,7 +17,7 @@ The goal of this system is to improve crop productivity, reduce farming costs, a
 ---
 ## 🎥 Demo Video
 
-[Download or Watch Demo](InfoCrop AI.mp4)
+[Download or Watch Demo](demo/InfoCrop AI.mp4)
 
 # 📌 Project Overview
 
