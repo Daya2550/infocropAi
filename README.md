@@ -247,7 +247,7 @@ Example technologies used in the project:
 
 **Backend**
 
-* Java / PHP / Node.js (depending on implementation)
+* Python (depending on implementation)
 
 **Database**
 
